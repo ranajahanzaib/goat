@@ -1,9 +1,10 @@
 package goat
 
-import(
+import (
 	"fmt"
 )
 
-func ImportCheck() {
-	fmt.Println("Goat imported!")
+// Hello from Goat
+func Hello() {
+	fmt.Println("Hello from Goat!")
 }
